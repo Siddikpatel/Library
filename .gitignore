@@ -1,0 +1,22 @@
+# Created by https://www.toptal.com/developers/gitignore/api/react
+# Edit at https://www.toptal.com/developers/gitignore?templates=react
+
+### react ###
+frontend/react-library/.DS_*
+frontend/react-library/*.log
+frontend/react-library/logs
+frontend/react-library/**/*.backup.*
+frontend/react-library/**/*.back.*
+
+frontend/react-library/node_modules
+frontend/react-library/bower_components
+
+frontend/react-library/*.sublime*
+
+frontend/react-library/psd
+frontend/react-library/thumb
+frontend/react-library/sketch
+frontend/react-library/.env
+
+backend/SpringBootLibrary/src/main/resources/application.properties
+# End of https://www.toptal.com/developers/gitignore/api/react
